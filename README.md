@@ -1,7 +1,7 @@
 ## 💫 About Me
 
 👨🏾‍💻 Hi! I'm **José**, a passionate software development student from the Dominican Republic.  
-🔭 I'm currently working on personal projects like **[Colmado César](#)** — combining tech with real-world needs.  
+🔭 I'm currently working on personal projects like **[Colmado César](https://github.com/JoseBeltre/colmado-cesar-app)** — combining tech with real-world needs.  
 🌱 Deep-diving into the JavaScript ecosystem: React, Node.js, Express, and more!  
 📚 Studying at **ITLA** and constantly learning through self-study and building things.  
 🎮 Gamer at heart, always curious and ready for a challenge.  
